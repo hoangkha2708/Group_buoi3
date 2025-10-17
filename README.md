@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Group_buoi3 - Cập nhật bởi A và B (hoàn tất rebase)
@@ -10,3 +11,6 @@ Feature B: sửa nội dung này
 
 
  fdbd655 (A: rename file to README.md and update content)
+=======
+Branch B: sửa dòng trong README.md
+>>>>>>> a56b94f (B: sửa README.md)
