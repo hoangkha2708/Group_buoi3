@@ -7,6 +7,8 @@ Group_buoi3 - Cập nhật bởi A và B (hoàn tất rebase)
 (Feature A: sửa nội dung này
 
 Feature B: sửa nội dung này
+Cập nhật phiên bản v1.1
+
 
 
 
