@@ -1,0 +1,1 @@
+- Khang: Đã thêm ghi chú vào group-note.md
